@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>PARS Drivers</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+
+	<key>NSCameraUsageDescription</key>
+	<string>this app required your camera</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app required your micro phone</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app would like to access your photos</string>
+
+	
+	<key>UIAppFonts</key>
+	<array>
+		<string>ITCAvantGardeStd-Bk.otf</string>
+		<string>ITCAvantGardeStd-BkCn.otf</string>
+		<string>ITCAvantGardeStd-BkCnObl.otf</string>
+		<string>ITCAvantGardeStd-BkObl.otf</string>
+		<string>ITCAvantGardeStd-Bold.otf</string>
+		<string>ITCAvantGardeStd-BoldCn.otf</string>
+		<string>ITCAvantGardeStd-BoldCnObl.otf</string>
+		<string>ITCAvantGardeStd-BoldObl.otf</string>
+		<string>ITCAvantGardeStd-Demi.otf</string>
+		<string>ITCAvantGardeStd-DemiCn.otf</string>
+		<string>ITCAvantGardeStd-DemiCnObl.otf</string>
+		<string>ITCAvantGardeStd-DemiObl.otf</string>
+		<string>ITCAvantGardeStd-Md.otf</string>
+		<string>ITCAvantGardeStd-MdCn.otf</string>
+		<string>ITCAvantGardeStd-MdCnObl.otf</string>
+		<string>ITCAvantGardeStd-MdObl.otf</string>
+		<string>ITCAvantGardeStd-XLt.otf</string>
+		<string>ITCAvantGardeStd-XLtCn.otf</string>
+		<string>ITCAvantGardeStd-XLtCnObl.otf</string>
+		<string>ITCAvantGardeStd-XLtObl.otf</string>
+		<string>NewBaskervilleStd-Bold.otf</string>
+		<string>NewBaskervilleStd-BoldIt.otf</string>
+		<string>NewBaskervilleStd-Italic.otf</string>
+		<string>NewBaskervilleStd-Roman.otf</string>
+		<string>Ionicons.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

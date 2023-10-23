@@ -1,0 +1,101 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-Bk.otf",
+      "sha1": "ddef287097dc60fc0c3df2ec546923e8294fe3e2"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-BkCn.otf",
+      "sha1": "10b3166cbe132930373b4c9975aad9dfa400aff7"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-BkCnObl.otf",
+      "sha1": "876c169e4deee60015fde020e8f769ecf9b4caf1"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-BkObl.otf",
+      "sha1": "99cdf78305a26654ae5552ea9ed9af36dd098e70"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-Bold.otf",
+      "sha1": "072c8a586e23d1769ad1cc9419c3cd05c087e2e2"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-BoldCn.otf",
+      "sha1": "cfb0e02a32e9f62701d1d84ef34b5d034f4a6945"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-BoldCnObl.otf",
+      "sha1": "47b2a264798e25593614ef04255de6b2d483bcaa"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-BoldObl.otf",
+      "sha1": "c9db0ccdf830e7435a5c0bb76bf72ba2621cb6af"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-Demi.otf",
+      "sha1": "d64ec2df254d4c9787168e1814d653597fcf74cd"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-DemiCn.otf",
+      "sha1": "5da70e2a3a13a5d5d878fb6693510eae4a850fc9"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-DemiCnObl.otf",
+      "sha1": "f088e591e940e33a42c141fad998d92f79fb7453"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-DemiObl.otf",
+      "sha1": "85fac18dd03d86194f5cbfb4b3376ede18160275"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-Md.otf",
+      "sha1": "416020e27f01ad2ed34a004043ed9aab559a8d21"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-MdCn.otf",
+      "sha1": "ed89065552742fc09c715a773b5140e516118e49"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-MdCnObl.otf",
+      "sha1": "8f6e24101f4ed13d46625ce2638a8692f07db7c1"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-MdObl.otf",
+      "sha1": "19e7e6c7dcf2a9e5ee26cb7ad157c0eb3d2815da"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-XLt.otf",
+      "sha1": "80dc1debbe727fb872b81ea2e75429c76c59583e"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-XLtCn.otf",
+      "sha1": "6b9986f4a735f9e9b6224cfe01ed6ea91807f876"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-XLtCnObl.otf",
+      "sha1": "1e4e7b4bbc580d49d4a5b73f2962da2aa0e97327"
+    },
+    {
+      "path": "src/assets/fonts/ITCAvantGardeStd-XLtObl.otf",
+      "sha1": "fd0bf57138628bfd4cbcffa4d5cffe2cf9872d30"
+    },
+    {
+      "path": "src/assets/fonts/NewBaskervilleStd-Bold.otf",
+      "sha1": "29835ff600de5e9c7b2ed1b9ee4e6b42476aedd5"
+    },
+    {
+      "path": "src/assets/fonts/NewBaskervilleStd-BoldIt.otf",
+      "sha1": "1f89b574d4bfecc2672781d93c9c56c71dd4195b"
+    },
+    {
+      "path": "src/assets/fonts/NewBaskervilleStd-Italic.otf",
+      "sha1": "4250c3d63961a0126095e5d0e4cfad742abaea49"
+    },
+    {
+      "path": "src/assets/fonts/NewBaskervilleStd-Roman.otf",
+      "sha1": "ed7b47aa8b8913c0a1c4236be88fe447c8f92bc9"
+    }
+  ]
+}
